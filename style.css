@@ -1,7 +1,7 @@
 
 /*corps principal de la page*/
 #main{
-    background-color:#C7C5C5;
+    background-color:#D8D8D8;
     border-radius: 20px;
 }
 
@@ -51,4 +51,7 @@ h3{
 
 .italic{
     font-style:italic
+}
+.center{
+    text-align:center;
 }
