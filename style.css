@@ -1,57 +1,63 @@
-
+/*
+Churchill's Biography
+CSS File
+By Ulysse Valdenaire
+09/08/2021
+*/
 /*corps principal de la page*/
-#main{
-    background-color:#D8D8D8;
-    border-radius: 20px;
+
+#main {
+  background-color: #d8d8d8;
+  border-radius: 20px;
 }
 
 /*Titre de la page*/
-#title{
-    text-align:center;
-    font-size:40px;
-    padding-top: 40px;
+#title {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 40px;
 }
 
 /*Sous-titre de la page*/
-.subtitle{
-    text-align: center;   
+.subtitle {
+  text-align: center;
 }
 
-#img-div{
-    background-color: white;
-    margin:20px;
-    border-radius:20px;
+#img-div {
+  background-color: white;
+  margin: 20px;
+  border-radius: 20px;
 }
 
-#image{
-    width:40%;
-    display:block;
-    margin-right: auto;
-    margin-left:auto;
-   margin-top:50px
+#image {
+  width: 40%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
 }
 
-#img-caption{
-    text-align:center;
+#img-caption {
+  text-align: center;
 }
 
-h3{
-    text-align: center;
+h3 {
+  text-align: center;
 }
 
-.list-center{
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px;
+.list-center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 }
 
-.bold{
-    font-weight:bold;
+.bold {
+  font-weight: bold;
 }
 
-.italic{
-    font-style:italic
+.italic {
+  font-style: italic;
 }
-.center{
-    text-align:center;
+.center {
+  text-align: center;
 }
